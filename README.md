@@ -1,6 +1,15 @@
-# nivo-website
 
-Sources for [nivo](https://github.com/plouc/nivo) [website](https://plouc.github.io/nivo/).
+
+## Demonstration of Reactjs components built with D3
+
+### To build
+
+  1. npm install
+  2. post install process will create the production build
+  2. npm start - runs a local server  
+
+### Sources
+[nivo](https://github.com/plouc/nivo) [website](https://plouc.github.io/nivo/).
 
 ## Repositories
 
