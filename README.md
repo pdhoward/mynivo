@@ -2,6 +2,8 @@
 
 ## Demonstration of Reactjs components built with D3
 
+This project was forked from https://github.com/plouc
+
 ### To build
 
   1. npm install
